@@ -1,0 +1,5 @@
+id,initiative,reach,impact,confidence,effort_person_weeks,evidence,hypothesis,success_metric,guardrail,rice_score,priority_rank
+P02,Lesson next-step checklist,31,1.5,0.5,1.0,14-day create-to-complete gap,An explicit next step improves learning completion,14-day ordered lesson completion rate,User-reported completion quality,23.25,1
+P01,First-project guided starter,42,2.0,0.55,2.0,14-day signup-to-create gap,A smaller first step improves activation,14-day ordered project creation rate,Support contacts per new signup,23.1,2
+P03,Private share preview,32,1.0,0.45,1.5,14-day complete-to-share gap,A privacy-first preview reduces sharing uncertainty,14-day ordered share rate,Accidental public-share reports,9.6,3
+P04,Collaboration discovery interviews,20,0.5,0.3,1.0,Low full-period collaboration adoption; need validation,Discover whether low adoption reflects low demand or poor discoverability,Decision supported by adult-user research,No implementation before problem validation,3.0,4

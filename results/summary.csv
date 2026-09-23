@@ -1,0 +1,6 @@
+metric,value,unit
+synthetic_users,120,users
+14_day_activation,0.65,proportion
+14_day_ordered_share,0.125,proportion
+observed_week_4_retention,0.375,proportion
+observed_week_4_denominator,120,users

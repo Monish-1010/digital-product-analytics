@@ -1,0 +1,5 @@
+persona,onboarding_path,eligible_users,activated_users,activation_rate,lesson_completers,sharers
+explorer,guided,38,24,0.6316,10,3
+explorer,self_serve,29,16,0.5517,6,1
+maker,guided,31,24,0.7742,19,8
+maker,self_serve,22,14,0.6364,12,3
